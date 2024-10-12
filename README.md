@@ -1,4 +1,4 @@
-# Mounika Satya Vani Gundavarapu!
+# Welcome to My GitHub Profile!
 
 ## About Me
 Hi! I'm **Mounika Satya Vani Gundavarapu**, currently pursuing a **Master of Science in Software Engineering** at **Concordia University, Montreal**. I have a strong background in software development and project management, with experience in Python, Java, SQL, and more.
